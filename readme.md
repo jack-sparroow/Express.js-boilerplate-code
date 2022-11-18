@@ -1,18 +1,34 @@
 # Node.js Express MongoDB Boilerplate
 
-###Blockquotes
+### Description
 
 > Express.js boilerplate code for writing efficient web server. This boiler plate contains 
 > bare minimum code required for webserver with assoiciation of routes and contollers
 > with specific services.
 
-## Folder structure 
+## Directory structure 
 
-    - index.js -> Entrypoint
-    - Routes
-    - Controllers 
-    - Services 
-    - Utils
+.
++-- package.json
++-- package-lock.json
++-- .gitignore
++-- src
+|   +-- index.js
+|   +-- controllers
+        +-- index.js
+        +-- user.controller.js
+|   +-- services
+        +-- index.js
+        +-- user.service.js
+|   +-- routes
+        +-- index.js
+        +-- user.routes.js
+|   +-- models
+        +-- index.js
+        +-- user.model.js
++-- _utils
+|   +-- dbConnect.js
+|   +-- responseHandler.js
 
 ## Dependencies 
 
@@ -42,7 +58,7 @@ DB_URL = yourdburl
 
 
 
-Made with ❤️  by <a href="https://github.com/jack-sparroow"> Me </a>
+Made with &nbsp; ❤️ &nbsp;  by &nbsp; <a href="https://github.com/jack-sparroow"> Jack </a>
 
 
-#Contributions are hugely appreciated .....
+# Contributions are hugely appreciated .....
