@@ -8,7 +8,8 @@
 
 ## Directory structure 
 
-.
+
+```sh
 +-- package.json
 +-- package-lock.json
 +-- .gitignore
@@ -29,6 +30,9 @@
 +-- _utils
 |   +-- dbConnect.js
 |   +-- responseHandler.js
+
+```
+
 
 ## Dependencies 
 
@@ -61,4 +65,4 @@ DB_URL = yourdburl
 Made with &nbsp; ❤️ &nbsp;  by &nbsp; <a href="https://github.com/jack-sparroow"> Jack </a>
 
 
-# Contributions are hugely appreciated .....
+# Contributions are hugely appreciated 
