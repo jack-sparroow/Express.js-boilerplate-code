@@ -1,6 +1,10 @@
-# Node.js Express Boilerplate
+# Node.js Express MongoDB Boilerplate
 
-Express.js boilerplate code for writing efficient web server.
+###Blockquotes
+
+> Express.js boilerplate code for writing efficient web server. This boiler plate contains 
+> bare minimum code required for webserver with assoiciation of routes and contollers
+> with specific services.
 
 ## Folder structure 
 
@@ -30,13 +34,15 @@ DB_URL = yourdburl
 4. Run one of the following script
 
 #### For Dev Mode 
-```sh
-npm run dev
-```
+
+`$ npm run dev`
 
 #### For Prod Mode 
-```sh
-npm start
-```
+`$ npm start`
 
 
+
+Made with ❤️  by <a href="https://github.com/jack-sparroow"> Me </a>
+
+
+#Contributions are hugely appreciated .....
