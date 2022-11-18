@@ -14,22 +14,22 @@
 +-- package-lock.json
 +-- .gitignore
 +-- src
-|   +-- index.js
-|   +-- controllers
+    +-- index.js
+    +-- controllers
         +-- index.js
         +-- user.controller.js
-|   +-- services
+    +-- services
         +-- index.js
         +-- user.service.js
-|   +-- routes
+    +-- routes
         +-- index.js
         +-- user.routes.js
-|   +-- models
+    +-- models
         +-- index.js
         +-- user.model.js
 +-- _utils
-|   +-- dbConnect.js
-|   +-- responseHandler.js
+    +-- dbConnect.js
+    +-- responseHandler.js
 
 ```
 
